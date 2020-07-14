@@ -1,6 +1,6 @@
 # LinkedList and Node Classes
 
-> Node is a required class to implement LinkedLists, but should never be called on its own
+> Node is a required class to implement LinkedLists and should not be called on its own
 
 Here's my take on a LinkedList, implemented in Python.
 
